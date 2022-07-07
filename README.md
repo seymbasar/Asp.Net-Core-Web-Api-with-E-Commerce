@@ -1,2 +1,2 @@
 # Asp.Net-Core-Web-Api-with-E-Commerce
-Web Api ile Restfull servisi kullanılan bir Web Uygulaması/E-Ticaret Sitesi.. 
+A Web Application/E-Commerce Website using Web Api and Restfull service.. 
